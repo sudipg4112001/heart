@@ -1,2 +1,2 @@
 # heart
-Prediction of occurence of heart diesease of a person
+Prediction of wheather heart disease will occur to a person or not
